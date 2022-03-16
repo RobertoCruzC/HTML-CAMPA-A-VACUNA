@@ -1,0 +1,40 @@
+
+*{
+ font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body{
+            background-color: rgb(236, 245, 245);
+        }
+
+        p{
+            color: rgb(98, 0, 255);
+            text-align: center;
+        }
+
+        #titulo{
+            color: rgb(200,150,220);
+            text-align: right;
+        }
+
+        .izquierda{
+            color: rgb(19, 0, 128);
+        }
+
+        p.izquierda{
+            text-decoration: underline;
+            text-align: left;
+        }
+
+        .contraste{
+            background-color: rgb(117, 69, 93);
+        }
+
+        h1, h2, p{
+            font-weight: bolder;
+        }
+
+        /* Comentario CSS */
+
+
+   
